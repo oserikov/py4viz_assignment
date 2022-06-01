@@ -14,4 +14,4 @@ Please find one paper on lemurs on google scholar and **cite it** in your latex 
 Please, **re-use the COLING2022 overleaf latex template** for your needs, you can find it here [link](https://coling2022.org/Submission).
 
 
-I will not evaluate statistics nor the adequacy of your texts.
+I will not evaluate statistics nor the adequacy of your texts. One page is the upper bound of the paper's size, feel free to make it as short as needed.
