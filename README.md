@@ -4,7 +4,7 @@ write a one-page paper in **english** on lemurs. your paper should **NOT** have 
 You should provide **two figures** there. One of them should provide the **histogram** of lemurs taxons present in the dataset. Another should provide the **violin** plot on the distribution of the lemurs' weights.
 
 Both of your charts as well as the latex document should **use serif font**. Do not italicize nor bold text on chart.
-Use the attached .ttf file in matplotlib and seaborn to configure the charts font to be Times New Roman in python. 
+Use the [attached .ttf file](https://github.com/oserikov/py4viz_assignment) in matplotlib and seaborn to configure the charts font to be Times New Roman in python (see [docs](https://matplotlib.org/stable/gallery/text_labels_and_annotations/font_file.html) for examples). 
 In case of failure with .ttf , use the default serif font. 
 Provide figures with **captions in latex** and do **NOT** provide figure titles in python and remember to **provide axes with labels**.
 
