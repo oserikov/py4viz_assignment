@@ -11,7 +11,7 @@ Provide figures with **captions in latex** and do **NOT** provide figure titles 
 In your paper, please provide the description of the typical averaged lemur: which is her most probable taxon?; what is the expected weight; how old is she? Refer to your figures to support your claims on taxon and weight.
 
 Please find one paper on lemurs on google scholar and **cite it** in your latex file. Ensure it appears in the biblography.
-Please, **re-use the COLING2022 overleaf latex template** for your needs, you can find it here ([link])[https://coling2022.org/Submission].
+Please, **re-use the COLING2022 overleaf latex template** for your needs, you can find it here [link](https://coling2022.org/Submission).
 
 
 I will not evaluate statistics nor the adequacy of your texts.
